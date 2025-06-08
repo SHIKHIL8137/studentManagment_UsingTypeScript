@@ -9,7 +9,8 @@ router.post('/addStudent',StudentController.createStudent);
 router.get('/:email',StudentController.getStudentById)
 router.patch('/update/:email',StudentController.updateStudent)
 router.delete('/delete/:email',StudentController.deleteStudent)
-// hello im anzil
+//hello shikhil
+
 
 
 
